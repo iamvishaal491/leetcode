@@ -1,0 +1,1 @@
+<h2>Build Array from Permutation Notes</h2><hr>needs to be faster
