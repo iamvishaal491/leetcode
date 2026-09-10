@@ -1,0 +1,13 @@
+class Solution {
+    public int numberOfEmployeesWhoMetTarget(int[] hours, int target) {
+        int c=0;
+        int n=hours.length;
+        for (int i=0;i<n;i++){
+            if (hours[i]>=target){
+                c=c+1;
+            }
+        }
+        return c;
+        
+    }
+}
