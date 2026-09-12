@@ -1,0 +1,12 @@
+# Private configuration and credentials
+config.json
+*.env
+export_progress.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Local scripts
+scratch/
+test_*.py
